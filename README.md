@@ -3,3 +3,4 @@
 ### Guided Projects
 
 1. Guided Project_ Analyzing Startup Fundraising Deals from Crunchbase
+2. Guided Project_ Analyzing Stock Prices
