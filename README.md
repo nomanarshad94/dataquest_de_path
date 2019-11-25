@@ -6,3 +6,4 @@
 2. Guided Project_ Analyzing Stock Prices
 3. Guided Project_ Analyzing Wikipedia Pages
 4. Guided Project_ Building a database for crime reports
+5. Guided Project_ Implementing a Key-Value Database
